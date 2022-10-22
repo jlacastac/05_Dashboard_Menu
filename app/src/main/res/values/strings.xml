@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">DashBoard</string>
+
+    <string-array name="questions">
+
+        <item>10 y = 70</item>
+
+        <item>x 3 = 15</item>
+
+        <item>16 y = 32</item>
+
+        <item>Que tipo de animal es un gato</item>
+
+        <item>Quien la chupa mas</item>
+
+    </string-array>
+
+
+    <string-array name="answers">
+
+        <item>7</item>
+
+        <item>5</item>
+
+        <item>2</item>
+
+        <item>Felino</item>
+
+        <item>Jeremy</item>
+
+    </string-array>
+
+    <string name="next_button">Next</string>
+    <string name="win_text">RIGHT!!</string>
+    <string name="defeat_text">INCORRECT!!</string>
+    <string name="next_button_end_text">Start again</string>
+    <string name="end_text">Congratulations! You have finished the lesson</string>
+    <string name="give_answer_text">Give an answer to the question.</string>
+    <string name="progress_0" translatable="false">1/3</string>
+    <string name="progress_1" translatable="false">2/3</string>
+    <string name="progress_2" translatable="false">3/3</string>
+    <string name="result_format">If you were a dog, you would be %d years old</string>
+    <string name="you_have_to_insert_an_age">You have to insert an age.</string>
+    <string name="calculate">Calculate</string>
+    <string name="how_old_are_you">How old are you?</string>
+    <string name="your_age">Your age</string>
+    <string name="alberto_ejemplo">How old are you?</string>
+    <string name="welcome_text">Bienvenidos a mi APP Calculadora</string>
+    <string name="first_number_text">Introduzca el primer numero:</string>
+    <string name="second_number_text">Introduzca el segundo numero:</string>
+    <string name="first_number_hint">Numero 1</string>
+    <string name="second_number_hint">Numero 2</string>
+    <string name="add_btn_text">SUMAR</string>
+    <string name="sub_btn_text">RESTAR</string>
+    <string name="mul_btn_text">MULT</string>
+    <string name="div_btn_text">DIV</string>
+    <string name="result_text">El resultado de la operacion es:</string>
+
+</resources>
